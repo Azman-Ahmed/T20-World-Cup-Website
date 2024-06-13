@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="img/T20 World Cup.jpg" alt="Project Poster" width="1000" />
+  <img src="img/T20 World Cup.jpg" alt="Project Poster" width="1500" />
 </p>
